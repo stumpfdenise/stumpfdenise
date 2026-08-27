@@ -32,6 +32,12 @@ JavaScript • Node.js • Express • Axios • HTML • CSS • Trello REST AP
 
 👉 [Conheça o projeto e sua documentação](https://github.com/stumpfdenise/bot-trello-gargalos)
 
+📄 **Publicação acadêmica**
+
+O projeto também faz parte da pesquisa **“Integração de Bots em Projetos Ágeis: Menos Gargalos, Mais Resultados”**, desenvolvida durante minha Iniciação Científica e publicada nos **Anais Eletrônicos do XIV EPCC — Encontro Internacional de Produção Científica da UniCesumar**.
+
+👉 [Acesse a publicação nos Anais](https://static.even3.com/anais/1318954.pdf)
+
 ### 💻 Desafio Front-End — Attus
 
 Projeto desenvolvido para um desafio técnico de processo seletivo, sendo meu primeiro contato prático com **Angular e TypeScript**.
