@@ -1,6 +1,6 @@
 # Oiiie, seja bem vindo(a)! Eu sou a Denise ;)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UniCesumar
 💻 Em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Web  
 🚀 Desenvolvendo projetos com JavaScript, Node.js, Front-End e integração com APIs
 
