@@ -60,7 +60,7 @@ Projeto focado em lógica de programação, controle de fluxo e manipulação di
 
 ## 📫 Contato
 
-🔗 LinkedIn: [www.linkedin.com/in/denise-stumpf-3803822a2]((https://www.linkedin.com/in/denise-stumpf/))
+🔗 LinkedIn: [www.linkedin.com/in/denise-stumpf-3803822a2](https://www.linkedin.com/in/denise-stumpf/)
 
 📧 E-mail: [denise.stumpf@outlook.com.br](mailto:denise.stumpf@outlook.com.br)
 
