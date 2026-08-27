@@ -12,14 +12,16 @@ Atualmente venho transformando os conhecimentos adquiridos na graduação e em c
 ## 🚀 Tecnologias & Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,git,github,vscode" />
 </p>
 
-**Outros conhecimentos:** APIs REST • Express • SQL (básico) • Scrum
+**Outros conhecimentos:** APIs REST • Express • RxJS • Angular Signals • SQL (básico) • Scrum
 
 ---
 
-## 🔎 Projeto em destaque — FlowGuard
+## 🔎 Projetos em destaque
+
+### 🛡️ FlowGuard
 
 O **FlowGuard** é uma solução desenvolvida durante minha Iniciação Científica para apoiar a identificação de possíveis gargalos e impedimentos em fluxos de trabalho Kanban.
 
@@ -29,6 +31,17 @@ A aplicação é integrada ao Trello e realiza o monitoramento de cartões a par
 JavaScript • Node.js • Express • Axios • HTML • CSS • Trello REST API • Trello Power-Up • Git/GitHub
 
 👉 [Conheça o projeto e sua documentação](https://github.com/stumpfdenise/bot-trello-gargalos)
+
+### 💻 Desafio Front-End — Attus
+
+Projeto desenvolvido para um desafio técnico de processo seletivo, sendo meu primeiro contato prático com **Angular e TypeScript**.
+
+Durante o desenvolvimento, também utilizei recursos como **RxJS e Angular Signals**, trabalhando conceitos de componentização, interação com o usuário, validações e tratamento de erros.
+
+**Tecnologias utilizadas:**  
+Angular • TypeScript • RxJS • Angular Signals • HTML • CSS
+
+👉 [Conheça o projeto](https://github.com/stumpfdenise/attus-frontend)
 
 ---
 
@@ -60,10 +73,6 @@ Projeto focado em lógica de programação, controle de fluxo e manipulação di
 
 ## 📫 Contato
 
-🔗 LinkedIn: [www.linkedin.com/in/denise-stumpf-3803822a2](https://www.linkedin.com/in/denise-stumpf/)
+🔗 LinkedIn: [linkedin.com/in/denise-stumpf](https://www.linkedin.com/in/denise-stumpf/)
 
 📧 E-mail: [denise.stumpf@outlook.com.br](mailto:denise.stumpf@outlook.com.br)
-
----
-
-⭐ Sempre aprendendo, construindo projetos e evoluindo um passo de cada vez.
