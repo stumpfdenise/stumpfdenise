@@ -1,48 +1,59 @@
-# 👋 Olá! Eu sou a Denise
+# Oiiie, seja bem vindo(a)! Eu sou a Denise ;)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Focada em Desenvolvimento Front-End, JavaScript e Integração com APIs
-🚀 Bolsista ICETI em projeto de pesquisa voltado a metodologias ágeis e tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Em transição de carreira para a área de tecnologia, com foco em Desenvolvimento Web  
+🚀 Desenvolvendo projetos com JavaScript, Node.js, Front-End e integração com APIs
 
-Atualmente venho desenvolvendo projetos práticos para fortalecer minhas habilidades em lógica de programação, front-end e construção de aplicações web, além de um MVP acadêmico envolvendo integração entre front-end, back-end e APIs.
+Atualmente venho transformando os conhecimentos adquiridos na graduação e em cursos em projetos práticos, explorando desenvolvimento web, automação e integração entre diferentes sistemas.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
 </p>
+
+**Outros conhecimentos:** APIs REST • Express • SQL (básico) • Scrum
+
+---
+
+## 🔎 Projeto em destaque — FlowGuard
+
+O **FlowGuard** é uma solução desenvolvida durante minha Iniciação Científica para apoiar a identificação de possíveis gargalos e impedimentos em fluxos de trabalho Kanban.
+
+A aplicação é integrada ao Trello e realiza o monitoramento de cartões a partir de critérios configuráveis, auxiliando na identificação de gargalos, limites de WIP e impedimentos.
+
+**Tecnologias utilizadas:**  
+JavaScript • Node.js • Express • Axios • HTML • CSS • Trello REST API • Trello Power-Up • Git/GitHub
+
+👉 [Conheça o projeto e sua documentação](https://github.com/stumpfdenise/bot-trello-gargalos)
 
 ---
 
 ## 📚 Atualmente estudando
 
 * JavaScript
+* Desenvolvimento Front-End
+* HTML e CSS
 * APIs e integração de sistemas
-* Front-End
 * Git & GitHub
-* Metodologias Ágeis
-* Inglês para tecnologia
 
 ---
 
-## 💡 Projetos em destaque
+## 💡 Outros projetos
 
-🎮 **Sistema de Aluguel de Jogos**
-Aplicação desenvolvida com JavaScript para gerenciamento de disponibilidade de jogos e interação dinâmica com usuário.
+🎮 **Sistema de Aluguel de Jogos**  
+Aplicação desenvolvida com JavaScript para gerenciamento de disponibilidade de jogos e interação dinâmica com o usuário.
 
-🎟 **Sistema de Ingresso Online**
-Projeto com lógica condicional, manipulação de DOM e validações de interação.
+🎟 **Sistema de Ingresso Online**  
+Projeto utilizando lógica condicional, manipulação do DOM e validações de interação.
 
-🔢 **Sorteador de Números**
-Sistema de geração de números aleatórios sem repetição utilizando arrays e estruturas de repetição.
+🔢 **Sorteador de Números**  
+Aplicação para geração de números aleatórios sem repetição utilizando arrays e estruturas de repetição.
 
-🧠 **Jogo do Número Secreto**
+🧠 **Jogo do Número Secreto**  
 Projeto focado em lógica de programação, controle de fluxo e manipulação dinâmica da interface.
-
-🚧 **MVP – Projeto de Iniciação Científica** *(em desenvolvimento)*
-Aplicação envolvendo integração entre front-end, back-end e APIs, com foco em organização de fluxos e metodologias ágeis.
 
 ---
 
@@ -55,4 +66,3 @@ Aplicação envolvendo integração entre front-end, back-end e APIs, com foco e
 ---
 
 ⭐ Sempre aprendendo, construindo projetos e evoluindo um passo de cada vez.
-
